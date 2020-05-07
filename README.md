@@ -1,2 +1,9 @@
 # iNote-Text-Editor-Application
-Copy of the original Windows notepad with extra added features
+
+Created By ProjectCode3
+
+A copy of the original Notepad text editor for Windows with extra added features
+
+Created in C#
+
+Using Visual Studio 2019 Windows Form Application
