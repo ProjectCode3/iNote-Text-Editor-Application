@@ -1,0 +1,18 @@
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\bin\Debug\OffGrid iNote Alpha 1.2.exe.config
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\bin\Debug\OffGrid iNote Alpha 1.2.exe
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\bin\Debug\OffGrid iNote Alpha 1.2.pdb
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.Form1.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.Properties.Resources.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid iNote Alpha 1.2.csproj.GenerateResource.cache
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid iNote Alpha 1.2.exe
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid iNote Alpha 1.2.pdb
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.Interface.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.Config.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.EditorApperance.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.AccountDets.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.frmUpdates.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.about.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.Replace.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.interfaceSettings.resources
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid iNote Alpha 1.2.csprojAssemblyReference.cache
+F:\Coding\c#\iNote OffGrid\OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2\obj\Debug\OffGrid_iNote_Alpha_1._2.WorkSpace.resources

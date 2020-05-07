@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffGrid iNote Alpha 1.2", "OffGrid iNote Alpha 1.2\OffGrid iNote Alpha 1.2.csproj", "{9B745352-1BFF-4A35-BD52-AB761F9744F1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{764BBE27-1D1E-430A-B33B-F471DE3E6ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B745352-1BFF-4A35-BD52-AB761F9744F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B745352-1BFF-4A35-BD52-AB761F9744F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B745352-1BFF-4A35-BD52-AB761F9744F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B745352-1BFF-4A35-BD52-AB761F9744F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764BBE27-1D1E-430A-B33B-F471DE3E6ADA}.Debug|Any CPU.ActiveCfg = Debug
+		{764BBE27-1D1E-430A-B33B-F471DE3E6ADA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {483BCDAE-7D5C-440D-9A23-999D34D83F49}
+	EndGlobalSection
+EndGlobal
